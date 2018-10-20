@@ -1,5 +1,6 @@
 # aion-fastvm-docker
-Docker container for Aion FastVM / Solidity compiler.
+Docker container for Aion FastVM / Solidity compiler.  
+Allows cross-platform smart contract compilation.
 
 ## Usage:
 
